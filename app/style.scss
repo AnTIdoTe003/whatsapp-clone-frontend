@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.home-wrapper {
+  width: 100%;
+  .home-container {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    .home-content {
+      width: 100%;
+    }
+  }
+}
